@@ -10,3 +10,4 @@
 | [Day 6](https://adventofcode.com/2021/day/6) | [Lanternfish](https://github.com/baalique/advent_of_code_2021/tree/master/day06)             |   ⭐    |   ⭐    |
 | [Day 7](https://adventofcode.com/2021/day/7) | [The Treachery of Whales](https://github.com/baalique/advent_of_code_2021/tree/master/day07) |   ⭐    |   ⭐    |
 | [Day 8](https://adventofcode.com/2021/day/8) | [Seven Segment Search](https://github.com/baalique/advent_of_code_2021/tree/master/day08)    |   ⭐    |   ⭐    |
+| [Day 9](https://adventofcode.com/2021/day/9) | [Smoke Basin](https://github.com/baalique/advent_of_code_2021/tree/master/day09)             |   ⭐    |   ⭐    |
