@@ -13,3 +13,4 @@
 |  [Day 9](https://adventofcode.com/2021/day/9)  | [Smoke Basin](https://github.com/baalique/advent_of_code_2021/tree/master/day09)             |   ⭐    |   ⭐    |
 | [Day 10](https://adventofcode.com/2021/day/10) | [Syntax Scoring](https://github.com/baalique/advent_of_code_2021/tree/master/day10)          |   ⭐    |   ⭐    |
 | [Day 11](https://adventofcode.com/2021/day/11) | [Dumbo Octopus](https://github.com/baalique/advent_of_code_2021/tree/master/day11)           |   ⭐    |   ⭐    |
+| [Day 12](https://adventofcode.com/2021/day/12) | [Passage Pathing](https://github.com/baalique/advent_of_code_2021/tree/master/day12)         |   ⭐    |   ⭐    |
