@@ -18,3 +18,4 @@
 | [Day 14](https://adventofcode.com/2021/day/14) | [Extended Polymerization](https://github.com/baalique/advent_of_code_2021/tree/master/day14) |   ⭐    |   ⭐    |
 | [Day 15](https://adventofcode.com/2021/day/15) | [Chiton](https://github.com/baalique/advent_of_code_2021/tree/master/day15)                  |   ⭐    |   ⭐    |
 | [Day 16](https://adventofcode.com/2021/day/16) | [Packet Decoder](https://github.com/baalique/advent_of_code_2021/tree/master/day16)          |   ⭐    |   ⭐    |
+| [Day 17](https://adventofcode.com/2021/day/17) | [Trick Shot](https://github.com/baalique/advent_of_code_2021/tree/master/day17)              |   ⭐    |   ⭐    |
